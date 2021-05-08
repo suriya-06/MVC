@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TRIVIA</string>
+    <string name="Question_textview">Question 1/10</string>
+    <string name="button_true">true</string>
+    <string name="button_false">False</string>
+    <string name="Button_next">Next</string>
+    <string name="text_string">"Hey how atre you "</string>
+</resources>
